@@ -14,7 +14,7 @@ public class DoclickApplication {
     }
 
     @GetMapping("/log")
-    public String logginTest()
+    private String logginTest()
     {
         return "Wesh";
     }

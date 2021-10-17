@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2021-10-17 14:30:53,074 ERROR SpringApplication:843 - [] Application run failed
 org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userRepository' defined in com.doclick.repositories.UserRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Invocation of init method failed; nested exception is org.springframework.data.repository.query.QueryCreationException: Could not create query for public abstract com.doclick.entities.User com.doclick.repositories.UserRepository.findUserByRoles()! Reason: Failed to create query for method public abstract com.doclick.entities.User com.doclick.repositories.UserRepository.findUserByRoles()! Method public abstract com.doclick.entities.User com.doclick.repositories.UserRepository.findUserByRoles() expects at least 1 arguments but only found 0. This leaves an operator of type SIMPLE_PROPERTY for property roles unbound.; nested exception is java.lang.IllegalArgumentException: Failed to create query for method public abstract com.doclick.entities.User com.doclick.repositories.UserRepository.findUserByRoles()! Method public abstract com.doclick.entities.User com.doclick.repositories.UserRepository.findUserByRoles() expects at least 1 arguments but only found 0. This leaves an operator of type SIMPLE_PROPERTY for property roles unbound.
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
@@ -556,3 +557,5 @@ Caused by: java.lang.IllegalStateException: Method public abstract com.doclick.e
 	at org.springframework.data.jpa.repository.query.PartTreeJpaQuery.validate(PartTreeJpaQuery.java:147)
 	at org.springframework.data.jpa.repository.query.PartTreeJpaQuery.<init>(PartTreeJpaQuery.java:90)
 	... 47 common frames omitted
+=======
+>>>>>>> parent of c0fcdcf (logs udate)
