@@ -6,6 +6,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 public interface UserRepository extends JpaRepository<User, Long>
 {
     User deleteUserByLogin(String login);
-    User findUserByRoles();
+    //User findUserByRoles();
     User findUserByLogin(String login);
 }

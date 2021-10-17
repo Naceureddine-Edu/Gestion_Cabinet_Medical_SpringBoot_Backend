@@ -1,9 +1,7 @@
 package com.doclick.entities;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
 
+import lombok.*;
 import javax.persistence.*;
 import java.util.Collection;
 
@@ -43,12 +41,11 @@ public class User
     @Column(length = 33, unique = true)
     public String email;
 
-
-
     /*
     @ManyToMany(fetch = FetchType.EAGER)
     @JoinTable(name = "users_role",
             joinColumns = @JoinColumn(name = "user_id"),
             inverseJoinColumns = @JoinColumn(name = "role_id"))
     List<Role> roles; */
+
 }

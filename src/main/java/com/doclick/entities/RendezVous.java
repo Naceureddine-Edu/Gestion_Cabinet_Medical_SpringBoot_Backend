@@ -16,12 +16,12 @@ public class RendezVous
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public Long Id;
 
-    public String nomPatient;
-    public String prenomPatient;
-    public String telPatient;
-    public String descriptionPatient;
-    public ConsultationEnum typeConsultation;
-    public Date dateConsultation;
+    public String NomPatient;
+    public String PrenomPatient;
+    public String TelPatient;
+    public String DescriptionPatient;
+    public ConsultationEnum TypeConsultation;
+    public Date DateConsultation;
 
     @ManyToOne
     public Patient patient;
