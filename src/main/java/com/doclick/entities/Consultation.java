@@ -1,8 +1,9 @@
 package com.doclick.entities;
 
 import lombok.*;
+
 import javax.persistence.*;
-import java.util.*;
+import java.util.Collection;
 
 @Data
 @AllArgsConstructor @NoArgsConstructor @ToString @EqualsAndHashCode

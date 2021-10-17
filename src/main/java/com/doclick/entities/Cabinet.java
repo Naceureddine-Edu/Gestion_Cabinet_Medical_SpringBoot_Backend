@@ -1,6 +1,7 @@
 package com.doclick.entities;
 
 import lombok.*;
+
 import javax.persistence.*;
 
 @Data

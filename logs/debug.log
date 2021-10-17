@@ -48,3 +48,19 @@
 2021-10-12 21:55:44,490 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
 2021-10-12 21:56:16,230 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 36.475 seconds (JVM running for 64.235)
 >>>>>>> parent of c0fcdcf (logs udate)
+2021-10-17 17:02:59,028 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9124 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-17 17:02:59,057 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-17 17:02:59,059 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-17 17:03:29,085 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 33.042 seconds (JVM running for 41.984)
+2021-10-17 17:31:49,151 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 4972 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-17 17:31:49,183 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-17 17:31:49,183 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-17 17:36:34,816 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 1736 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-17 17:36:34,821 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-17 17:36:34,822 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-17 17:37:42,808 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9956 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-17 17:37:42,813 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-17 17:37:42,814 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-17 17:38:33,572 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9336 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-17 17:38:33,578 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-17 17:38:33,578 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
