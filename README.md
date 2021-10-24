@@ -56,7 +56,7 @@ At the root of your project, please run
 
 Once the analysis completes, it will be available on the Sonar dashboard, which by default is available on http://localhost:9000.
 
-<img src="https://github.com/susimsek/spring-boot-sonarqube-measurement-example/blob/main/images/sonarqube-dashboard.png" alt="Spring Boot Sonarqube Dashboard Example" width="100%" height="100%"/>
+<img src="https://github.com/Naceureddine-Edu/Gestion_Cabinet_Medical_SpringBoot_Backend/blob/main/images/sonarqube-dashboard.png" alt="Spring Boot Sonarqube Dashboard Example" width="100%" height="100%"/>
 
 
 For Swagger-UI, it will be available on the Swagger Dashboard, which by default is available on http://localhost:8080/swagger-ui.html.
