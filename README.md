@@ -17,36 +17,58 @@ The maven project is mostly standard:
      |_ README.md
 
 
-## Compile
+## Sonarqube Docker Compose Installation
 
-To compile the full project, please execute the following command :
+At the root of your project, please run
 
-```bash
-    $> mvn clean install
+```sh
+docker-compose -f SonarQube.yml up -d
 ```
 
-## Execute the program
+Change sonarqube admin password
 
-- **On any platform (Linux, MacOS, Windows)**
-
-to execute the compiled jar, please execute the command bellow :
-
-```bash
-    $> mvn exec:java
+```sh
+curl -u admin:admin -X POST "http://localhost:9000/api/users/change_password?login=admin&previousPassword=admin&password=Admin"
 ```
 
-or :
+Create project in sonarqube with this project key 
 
-```bash
-    $> java -jar ${project.name}-${project.version}-jar-with-dependencies.jar
+```sh
+Doclick
 ```
 
-## Publish as a Maven Repo
+## Using Sonar
 
-To publish to the right maven repo, just execute the following lines:
+Edit these properties in json files sonar-project.properties.
 
-```bash
-    $> mvn clean site deploy
+```sh
+sonar.host.url=http://localhost:9000
+sonar.login=admin
+sonar.password=Admin
 ```
 
 
+At the root of your project, please run
+
+```sh
+ sonar-scanner.bat -D"sonar.projectKey=Doclick" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000"
+```
+
+Once the analysis completes, it will be available on the Sonar dashboard, which by default is available on http://localhost:9000.
+
+<img src="https://github.com/susimsek/spring-boot-sonarqube-measurement-example/blob/main/images/sonarqube-dashboard.png" alt="Spring Boot Sonarqube Dashboard Example" width="100%" height="100%"/>
+
+
+For Swagger-UI, it will be available on the Swagger Dashboard, which by default is available on http://localhost:8080/swagger-ui.html.
+And api-docs on http://localhost:8080/v2/api-docs
+
+
+## Prerequisites
+
+* Java 8
+* Maven 3.8+
+* Docker 20.10.8+
+* Docker Compose 1.29+
+* Sonarqube 8.9.2-community
+* Swagger 2.9.2
+ 
