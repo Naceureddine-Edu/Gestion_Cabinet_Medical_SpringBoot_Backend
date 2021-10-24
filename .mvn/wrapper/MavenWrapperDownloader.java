@@ -90,7 +90,7 @@ public class MavenWrapperDownloader {
             System.exit(0);
         } catch (Throwable e) {
             System.out.println("- Error downloading");
-            e.printStackTrace();
+            e.printStackTrace(); //NOSONAR
             System.exit(1);
         }
     }
@@ -108,8 +108,8 @@ public class MavenWrapperDownloader {
         }
         URL website = new URL(urlString);
         ReadableByteChannel rbc;
-        rbc = Channels.newChannel(website.openStream());
-        FileOutputStream fos = new FileOutputStream(destination);
+        rbc = Channels.newChannel(website.openStream()); //NOSONAR
+        FileOutputStream fos = new FileOutputStream(destination); //NOSONAR
         fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
         fos.close();
         rbc.close();

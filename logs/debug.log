@@ -1,74 +1,142 @@
-<<<<<<< HEAD
-2021-10-17 14:30:01,691 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 8696 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 14:30:01,744 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 14:30:01,745 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 14:31:35,721 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 820 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 14:31:35,728 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 14:31:35,729 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 14:37:11,610 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 7804 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 14:37:11,616 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 14:37:11,617 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 14:42:03,263 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 10092 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 14:42:03,270 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 14:42:03,270 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 14:42:59,040 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9476 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 14:42:59,048 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 14:42:59,048 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 14:47:06,299 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 6292 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 14:47:06,305 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 14:47:06,306 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 14:51:33,201 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 1344 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 14:51:33,201 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 14:51:33,201 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 15:14:52,916 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 4800 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 15:14:52,950 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 15:14:52,951 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 15:36:50,082 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 5404 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 15:36:50,094 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 15:36:50,094 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-=======
-2021-10-12 11:41:24,253 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 3936 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-12 11:41:24,282 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-12 11:41:24,292 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-12 11:41:53,394 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 31.329 seconds (JVM running for 38.886)
-2021-10-12 11:45:37,217 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 11532 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-12 11:45:37,217 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-12 11:45:37,248 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-12 11:45:50,420 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 13.963 seconds (JVM running for 16.321)
-2021-10-12 12:57:11,361 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 5892 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-12 12:57:11,400 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-12 12:57:11,405 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-12 12:57:49,584 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 40.234 seconds (JVM running for 48.622)
-2021-10-12 13:00:54,729 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 3580 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-12 13:00:54,738 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-12 13:00:54,756 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-12 13:01:13,728 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 19.781 seconds (JVM running for 22.623)
-2021-10-12 21:55:44,421 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 13700 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-12 21:55:44,481 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-12 21:55:44,490 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-12 21:56:16,230 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 36.475 seconds (JVM running for 64.235)
->>>>>>> parent of c0fcdcf (logs udate)
-2021-10-17 17:02:59,028 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9124 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 17:02:59,057 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 17:02:59,059 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 17:03:29,085 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 33.042 seconds (JVM running for 41.984)
-2021-10-17 17:31:49,151 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 4972 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 17:31:49,183 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 17:31:49,183 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 17:36:34,816 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 1736 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 17:36:34,821 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 17:36:34,822 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 17:37:42,808 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9956 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 17:37:42,813 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 17:37:42,814 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 17:38:33,572 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9336 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 17:38:33,578 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 17:38:33,578 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 18:30:22,090 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 7584 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 18:30:22,179 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 18:30:22,184 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 18:30:52,289 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 35.42 seconds (JVM running for 54.409)
-2021-10-17 18:51:40,280 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 10504 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
-2021-10-17 18:51:40,305 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
-2021-10-17 18:51:40,314 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
-2021-10-17 18:52:38,305 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 63.699 seconds (JVM running for 80.127)
+2021-10-24 11:58:31,768 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 4356 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 11:58:31,779 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 11:58:31,781 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 11:59:05,415 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 37.074 seconds (JVM running for 51.469)
+2021-10-24 12:42:36,551 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 10212 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 12:42:36,579 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 12:42:36,580 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 12:42:59,563 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 26.197 seconds (JVM running for 32.227)
+2021-10-24 13:18:22,330 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 4404 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:18:22,355 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:18:22,356 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:18:46,138 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 27.7 seconds (JVM running for 34.091)
+2021-10-24 13:20:29,355 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 8060 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:20:29,361 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:20:29,361 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:20:39,898 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 11.331 seconds (JVM running for 13.613)
+2021-10-24 13:25:09,599 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 1256 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:25:09,605 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:25:09,606 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:25:20,199 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 11.457 seconds (JVM running for 13.578)
+2021-10-24 13:28:15,683 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 10828 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:28:15,689 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:28:15,690 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:28:26,149 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 11.223 seconds (JVM running for 13.338)
+2021-10-24 13:29:10,318 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 8464 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:29:10,325 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:29:10,326 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:29:20,836 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 11.299 seconds (JVM running for 13.283)
+2021-10-24 13:30:15,254 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 4556 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:30:15,260 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:30:15,261 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:30:25,657 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 11.354 seconds (JVM running for 13.936)
+2021-10-24 13:32:10,805 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 8212 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:32:10,814 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:32:10,815 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:32:21,627 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 12.247 seconds (JVM running for 15.134)
+2021-10-24 13:35:14,693 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 2932 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:35:14,698 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:35:14,699 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:35:29,563 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 15.649 seconds (JVM running for 17.646)
+2021-10-24 13:41:03,702 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 800 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:41:03,707 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:41:03,707 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:41:13,214 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 10.431 seconds (JVM running for 13.179)
+2021-10-24 13:45:37,484 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9576 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:45:37,492 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:45:37,513 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:45:56,069 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 19.439 seconds (JVM running for 23.325)
+2021-10-24 13:47:33,742 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 10248 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:47:33,751 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:47:33,752 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:47:45,113 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 12.325 seconds (JVM running for 14.549)
+2021-10-24 13:56:22,310 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 4784 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 13:56:22,310 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 13:56:22,326 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 13:56:32,118 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 10.594 seconds (JVM running for 12.699)
+2021-10-24 14:07:42,409 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 2604 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 14:07:42,416 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 14:07:42,421 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 14:07:57,260 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 244 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 14:07:57,266 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 14:07:57,266 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 14:08:46,503 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 11624 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 14:08:46,509 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 14:08:46,510 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 14:08:56,988 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 11.226 seconds (JVM running for 13.148)
+2021-10-24 14:13:39,976 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 5212 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 14:13:39,982 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 14:13:39,982 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 14:13:50,880 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 11.833 seconds (JVM running for 14.204)
+2021-10-24 14:28:53,265 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 3652 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 14:28:53,268 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 14:28:53,269 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 14:29:07,718 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 15.274 seconds (JVM running for 20.6)
+2021-10-24 14:31:28,802 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 8488 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 14:31:28,810 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 14:31:28,811 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 14:31:41,550 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 13.728 seconds (JVM running for 16.264)
+2021-10-24 14:35:04,041 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 11188 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 14:35:04,048 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 14:35:04,050 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 14:35:15,042 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 12.707 seconds (JVM running for 15.749)
+2021-10-24 14:40:38,966 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9036 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 14:40:38,971 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 14:40:38,972 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 14:40:49,361 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 11.151 seconds (JVM running for 12.96)
+2021-10-24 14:41:36,170 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 10324 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 14:41:36,176 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 14:41:36,177 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 14:41:47,437 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 12.105 seconds (JVM running for 15.151)
+2021-10-24 14:45:50,390 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 1940 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 14:45:50,409 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 14:45:50,409 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 14:46:12,935 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 24.765 seconds (JVM running for 31.096)
+2021-10-24 15:17:19,349 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 7692 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 15:17:19,355 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 15:17:19,367 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 15:17:40,547 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 21.912 seconds (JVM running for 25.204)
+2021-10-24 15:18:27,539 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 236 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 15:18:27,543 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 15:18:27,544 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 15:18:38,684 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 11.786 seconds (JVM running for 17.224)
+2021-10-24 15:22:51,305 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 11296 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 15:22:51,311 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 15:22:51,311 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 15:23:01,214 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 10.711 seconds (JVM running for 12.751)
+2021-10-24 15:53:15,768 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9460 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 15:53:15,815 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 15:53:15,817 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 15:53:37,820 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 24.403 seconds (JVM running for 32.157)
+2021-10-24 17:20:25,910 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 4784 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 17:20:25,944 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 17:20:25,944 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 17:21:13,863 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 52.495 seconds (JVM running for 64.653)
+2021-10-24 17:38:25,281 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 11860 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 17:38:25,363 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 17:38:25,364 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 17:39:16,307 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 75.019 seconds (JVM running for 105.075)
+2021-10-24 17:44:46,342 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 7192 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 17:44:46,370 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 17:44:46,370 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 17:44:59,823 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 14.493 seconds (JVM running for 26.511)
+2021-10-24 18:06:44,513 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 11328 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 18:06:44,649 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 18:06:44,649 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 18:08:12,732 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 96.457 seconds (JVM running for 128.054)
+2021-10-24 20:02:04,795 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9580 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 20:02:05,474 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 20:02:05,476 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 20:03:43,158 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 111.798 seconds (JVM running for 204.991)
+2021-10-24 20:58:33,438 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 9972 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 20:58:33,545 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 20:58:33,554 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 21:00:38,162 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 130.173 seconds (JVM running for 201.418)
+2021-10-24 21:48:07,787 INFO  StartupInfoLogger:55 - [] Starting DoclickApplicationTests using Java 14.0.2 on DESKTOP-S6KH8QP with PID 4556 (started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 21:48:07,831 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 21:48:07,839 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 21:48:55,542 INFO  StartupInfoLogger:61 - [] Started DoclickApplicationTests in 51.111 seconds (JVM running for 72.089)
+2021-10-24 23:00:23,982 INFO  StartupInfoLogger:55 - [] Starting DoclickApplication using Java 14.0.2 on DESKTOP-S6KH8QP with PID 5380 (C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend\target\classes started by NaceureddineHansaoui in C:\Users\NaceureddineHansaoui\eclipse-workspace\Doclick SpringBoot Backend)
+2021-10-24 23:00:23,998 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-24 23:00:23,998 INFO  SpringApplication:659 - [] No active profile set, falling back to default profiles: default
+2021-10-24 23:01:10,415 INFO  StartupInfoLogger:61 - [] Started DoclickApplication in 50.67 seconds (JVM running for 58.355)

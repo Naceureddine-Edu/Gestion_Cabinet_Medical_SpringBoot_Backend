@@ -1,0 +1,7 @@
+version: '3'
+services:
+  doclick-sonar:
+    container_name: Doclick-SonarQube
+    image: sonarqube:8.9.2-community
+    ports:
+      - 9000:9000

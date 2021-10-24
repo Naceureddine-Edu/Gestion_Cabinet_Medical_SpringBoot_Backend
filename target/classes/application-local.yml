@@ -1,4 +1,12 @@
 spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            clientId: 242895314620-qrrqj92d9nj5kl17h05ufbupi22rqbjt.apps.googleusercontent.com
+            clientSecret: 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
+
   profiles:
     active: local
   datasource:
@@ -7,6 +15,7 @@ spring:
     password: ${MYSQL_DB_PASS}
     driver-class-name: com.mysql.jdbc.Driver
     sql-script-encoding: UTF-8
+
   jpa:
     database-platform: org.hibernate.dialect.MySQL5Dialect
     generate-ddl: true
